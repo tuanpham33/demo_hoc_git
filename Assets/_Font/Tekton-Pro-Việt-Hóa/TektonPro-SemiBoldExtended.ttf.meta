@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: bdb57fcc4f446d64d80a34af4595e405
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tekton Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8bee2311094ee4345806e11cffe7c6bc, type: 3}
+  - {fileID: 12800000, guid: 2334f893281c57048af9eca58e9dc2c7, type: 3}
+  - {fileID: 12800000, guid: c6ffc4f8a192a9c4f953c6c538a332e4, type: 3}
+  - {fileID: 12800000, guid: 42257515acad02a49bf47a8dcd35ae9d, type: 3}
+  - {fileID: 12800000, guid: 8b6cece8aefd6af44aaa1e0812801cfc, type: 3}
+  - {fileID: 12800000, guid: fb5a05a1cce0667419d23504162c7196, type: 3}
+  - {fileID: 12800000, guid: 982a01f2e9165b244a4b644bae984510, type: 3}
+  - {fileID: 12800000, guid: 00a37c6c51bfdc341a86eeffc87ee8a0, type: 3}
+  - {fileID: 12800000, guid: f0c5afb6b7348ef488d1d956d519b09a, type: 3}
+  - {fileID: 12800000, guid: 799fcd768ef975b4eab7a9fc102a554b, type: 3}
+  - {fileID: 12800000, guid: c62fc6ef7dd858745bb875b72553bd7a, type: 3}
+  - {fileID: 12800000, guid: 87569e3a6cbb75d47aee75c515f1fbd8, type: 3}
+  - {fileID: 12800000, guid: 3a5258b2d2fe7fe4b82100f04e3ef196, type: 3}
+  - {fileID: 12800000, guid: c8a39733c096c0e4b84846aadf193657, type: 3}
+  - {fileID: 12800000, guid: 7aad5dec1e4ce6b45a52c0612db7fe99, type: 3}
+  - {fileID: 12800000, guid: 574f68ea6d4463e45b4df5ff7c1eb7cf, type: 3}
+  - {fileID: 12800000, guid: ea9ab67fb876a8a47b0536ce28b57a74, type: 3}
+  - {fileID: 12800000, guid: ba05e8fee29a7664eab4e76e0d1aeb6c, type: 3}
+  - {fileID: 12800000, guid: 7bc2c91004a2dfd4da5d9346510c4bfb, type: 3}
+  - {fileID: 12800000, guid: cc92a4ab7fdc0d642a67d79fbbcbfed1, type: 3}
+  - {fileID: 12800000, guid: 992b734d3df30814ab33ece4d3f94872, type: 3}
+  - {fileID: 12800000, guid: d9c974b951d69e144aa746f0568b4362, type: 3}
+  - {fileID: 12800000, guid: e67163c8b85a97c498ded9e4dc1ff70d, type: 3}
+  - {fileID: 12800000, guid: c9064e07287c21440be3a267803270d3, type: 3}
+  - {fileID: 12800000, guid: 9d7e3ddcf1e8a4741967e35736be1c10, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
